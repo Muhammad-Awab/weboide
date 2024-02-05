@@ -69,7 +69,7 @@ $(document).ready(function() {
       nav:true,
       margin:0,
       autoplay:true,
-      autoplayTimeout:6000,
+      autoplayTimeout:7000,
       autoplayHoverPause:false,
       responsive:{
          0:{
